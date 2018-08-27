@@ -28,7 +28,6 @@ ul.features-list li:before
 }
 .features-bg{
 	background: url('../images/features-bg.png');
-	padding: ;
 }
 .grid-50{
 	width: 50%;
@@ -54,13 +53,13 @@ ul.features-list li:before
 	z-index: 222;
 }
 .services-owl{
-	background: url('../images/service-owl-bg.png');
+	background:rgb(16, 177, 110);
 	text-align: center;
 }
 .item-name{
 	background: #fff;
 	padding: 5px 30px;
-	color: #366BB0;
+	color: #006B3F;
 	display: inline-block;
 	font-weight: 700;
 	margin-bottom: 40px;
@@ -83,5 +82,5 @@ ul.features-list li:before
 }
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover{
 	background: #fff;
-	color: #366BB0;
+	color: #006B3F;
 }

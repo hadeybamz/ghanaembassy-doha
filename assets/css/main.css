@@ -173,7 +173,7 @@ p{
 }
 .border-radius{
 	border-radius: 0 !important;
-	border-color: #0067b2;
+	border-color: #006B3F;
 	height: 45px;
 }
 p:hover{
@@ -192,7 +192,7 @@ p:hover{
 	background: black;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
-	background: skyblue;
+	background: lightgreen;
 }
 .navbar-toggle:hover .icon-bar, .navbar-toggle:focus .icon-bar {
     background-color: #cecece;
@@ -227,14 +227,15 @@ ul.nav.navbar-nav.navbar-right{
 	color: #cece;
 }
 .navbar-default {
-    background-color:#0067b2;
+    background-color:#006B3F;
     border-color: transparent;
     padding: 5px 0px;
     border-radius: 0;
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a{
-	color: #fff;
+	color: #FCD116;
+	font-weight: 200;
     padding-right: 20px;
     padding-left: 20px;
     border: 1px solid transparent;
@@ -244,11 +245,11 @@ ul.nav.navbar-nav.navbar-right{
     transition: all .4s ease-in-out;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #0067b2;
+	color:black;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
-	color: #0067b2;
-	background: #e8f9ff;
+	color: black;
+	background: transparent;
 }
 .navbar-nav>li>a {
     padding-top: 8px;
@@ -256,8 +257,8 @@ ul.nav.navbar-nav.navbar-right{
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
     background-color: transparent;
-    color: #0067b2;
-    background: #e8f9ff;
+    color: black;
+    background: lemonchiffon;
 }
 		/*Home*/
 .flexslider{
@@ -268,8 +269,7 @@ ul.nav.navbar-nav.navbar-right{
 	padding: 0;
 	border: 0;
 	overflow-x: hidden;
-	background: transparent;
-	background-image: url('../images/header.png');
+	background:rgb(16, 177, 110);
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -329,7 +329,7 @@ ul.nav.navbar-nav.navbar-right{
 	border-right: 0px;
 }
 .custom-button{
-	background: #0067b2;
+	background: #006B3F;
 	color: #fff;
 	width: 100%;
 	text-align: center;
@@ -363,7 +363,7 @@ ul.nav.navbar-nav.navbar-right{
 .icon{
 	padding: 20px 0;
 	font-size: 35px;
-	color: #0067b2;
+	color: #006B3F;
 }
 .offer-item h3{
 	padding-bottom: 40px;
@@ -430,11 +430,7 @@ ul.nav.navbar-nav.navbar-right{
     text-transform: capitalize;
     margin: 20px;
 }
-.price-btn:hover{
-	color: #0067b2;
-    background-color: #fff;
-    border-color: #0067b2;
-}
+
 /*=================================================
 ||				8. Additional Services
 ==================================================*/
@@ -496,13 +492,13 @@ ul.nav.navbar-nav.navbar-right{
 }
 .brand-logo{
 	font-size: 33px;
-	color: #0067b2;
+	color: #006B3F;
 }
 a.brand-logo span{
 	color: #583b54;
 }
 a.brand-logo:focus, a.brand-logo:hover{
-	color: #0067b2;
+	color: #006B3F;
 	text-decoration: none;
 }
 
@@ -512,14 +508,14 @@ a.brand-logo:focus, a.brand-logo:hover{
 	margin: 40px 0 20px;
 }
 .custom-sub-btn{
-	background-color: #0067b2;
+	background-color: #006B3F;
 	color: #fff;
-	border-color: #0067b2;
+	border-color: #006B3F;
 	transition: all .4s ease-in-out;
 }
 .custom-sub-btn:hover{
-	background: #53B1DE;
-	border-color: #53B1DE;
+	background: lightgreen;
+	border-color:lightgreen;
 	color: #fff;
 }
 /*.input-group .custom-sub{
@@ -537,7 +533,7 @@ a.brand-logo:focus, a.brand-logo:hover{
     padding: 5px;
 }
 .social-icon a{
-	color: #0067b2;
+	color: #006B3F;
 }
 .social-icon a:hover{
 	color: #53B1DE;
@@ -546,7 +542,7 @@ a.brand-logo:focus, a.brand-logo:hover{
 footer{
 	text-align: center;
 	padding: 20px;
-	background: #0067b2;
+	background: #006B3F;
 }
 footer a{
 	color: #fff;

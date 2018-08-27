@@ -23,13 +23,13 @@
 	transition: all .4s ease-in-out;
 }
 .contact:hover{
-	background: #60C9EB;
+	background:rgb(16, 177, 110);
 }
 .contact:hover .contact-icon, .contact:hover .contact-name, .contact:hover .contact-detail{
 	color: #fff;
 }
 .contact-icon{
-	color: #60C9EB;
+	color: #006B3F;
 	font-size: 40px;
 }
 .contact-name{

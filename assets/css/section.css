@@ -3,7 +3,7 @@
 	background-position: bottom;
 	background-attachment: fixed;
 	text-transform: uppercase;
-	background: url('../images/section-header.png');
+	background:rgb(16, 177, 110);
 	text-align: center;
 	background-size: cover;
 }
